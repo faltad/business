@@ -1,0 +1,60 @@
+Facteurs clef succès de BCI navigation:
+Alors, avec la direction qu'a pris BCI, il faut se fier a GEOD, et à leur 
+définition de la Mobilité.
+	   - Mise à jour en temps réel ou quasi réel des données de GEOD.
+	   - Visualisation très précise (à moins de 50cm) du monde en 3D et
+même l'intérieur des batiments.
+	   - déploiement sur le Cloud
+	   - Personnalisation des données grâce aux logiciels SIG
+
+Analyse fonctionnelle:
+
+	- commercial : 
+La qualité des produits devraient être au rendez-vous, avec un prix de vente
+assez faible car il vise les pays en voie de developpement en première cible
+(Inde + Afrique). La notoriété n'est pas très importante, jamais vraiment
+entendu parler de BCI avant, la réputation est assez faible au niveau des
+actionnaires, mais inconnue au niveau des clients. L'emplacement c'est à dire
+être français avantage peut-être pour la vente d'applications aux pays
+africains francophones et entrenant de nombreuses relations avec la France.
+Les parts de marché sont inexistantes car le produit n'est pas encore
+commercialisé.
+
+	- Services clients:
+	Il y aurait un système de formations pour les clients (entreprises et 
+non grand public). Mais aucune mention d'un autre service client quelconque.
+
+    	- Production:
+	Il s'agit d'un produit dématérialisé mais le délai de dev est très long
+
+	- Approvisionnement + sous-traitance:
+	Une application utilisant GEOD pourrait-être développé par une
+entreprise indépendante mais elle serait donc dépendante de BCI pour des mises
+à jour du code de GEOD (même si elle pourrait déployer soi-même le serveur).
+Dépendance au niveau des fournisseurs de données locales, pour étoffer les
+cartes de GEOD.
+
+        - GRH:
+	Masse salariale très très basse, 17 cadres en tout (et 0 employés!)
+	mode de travail= 35 heures, les absentéisme et démission ne semble pas
+	exister selon le dernier rapport annuel et aucun incident reporté.
+	Presque aucun changement dans l'équipe depuis 3 ans
+
+	-Financière:
+	La situation financière de l'entreprise est catastrophique, d'ailleurs
+ils sont en liquidation judiciaire. Mais c'était prévu s'ils ne trouvaient pas
+d'investisseurs d'ici juin 2012. En attente de repreneur ?
+
+	- Recherche et dev:
+	La recherche et développement était la principale activité de
+l'entreprise ces dernières années. BCI recevait une bourse de l'État pour ça,
+dont le montant a diminué courant 2011. L'innovation au niveau de la mise à
+jour en temps réel est plutôt importante, de même au niveau de la
+représentation spatiale.
+
+	- Direction de l'entreprise:
+	Désastreuse à mon avis, le patron n'est pas aimé des actionnaires,
+	gestion "familiale" même ? (voir organigramme)
+	Patron qui promet beaucoup trop de chose, et de la manière la plus
+	vague possible ! Un peu n'importe quoi à mon avis -> mauvaise
+	communication + image
