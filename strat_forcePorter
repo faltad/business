@@ -1,0 +1,107 @@
+1ere force - concurrents directs:
+	    - Tele Atlas (TomTom) - netherlands
+	    - Navteq (Nokia) - US
+	    - Google avec Map Maker
+	    - OpenStreetMap
+Il y a donc deux gros leaders sur le marché des fournisseurs de données pour 
+la cartographie en ligne. Google pourrait en être un car ils ont arrêtés
+d'utiliser les données de TeleAtlas pour utiliser leurs propres données en 2009
+Il y a bien sûr d'autre acteurs mais beaucoup plus local du type IGN (BCInav a
+ eu un partenariat avec eux).
+
+TeleAtlas : SAS
+Appartient à TomTom et dirigé par Alain De Taeye et Wim Dik.
+Fondé en 1984, ils ont fournis google pour leur service de google maps jusqu'en
+2008, et ont été rachetés par TomTom
+Tele Atlas compte des clients dans 5 domaines différents :
+    la cartographie sur Internet : ViaMichelin, Mappy, Pages jaunes, Google3 (Google Maps & Google Earth)...
+    les assistants de navigation personnel (PND) : TomTom, Mio/Navman
+    les applications sur téléphone mobile et PDA: Appello, ...
+    les GPS intégrés dans les automobiles : Mercedes Benz, Volkswagen, Blaupunkt, Pioneer, Clarion...
+    la gestion de flotte utilisée par des grandes entreprises : UPS, FedEx, Deutsche Post, ESRI...
+Au niveau de la 3D: 
+Dans cette optique, Tele Atlas travaille sur trois domaines :
+
+    le Digital Elevation Model, ou modèle d'élévation numérique de terrain. Cette donnée permet aux GPS d'afficher les détails du relief : montagnes, vallées, etc.
+    les 3D Landmarks, qui sont une représentation fidèle de bâtiments remarquables, tels que la Tour Eiffel ou l'Arc de Triomphe.
+    les 3D CityMaps, ou la reproduction complète en 3D d'une ville, mais avec un niveau de détails plus faible que pour les 3D Landmarks, afin de ne pas saturer la mémoire des systèmes.
+
+Ils sont donc présents sur le monde entier.
+Mais attention, Tomtom a perdu énormément ces derniers temps dût principalement
+à l'arrivée des applications de GPS sur smartphone et la baisse des ventes des
+gps pour grand public, son coeur de cible.
+Comment procèdent-ils ?
+Voir pour plus de détails : www.tomtom.com/howdoesitwork/page.php?ID=11&CID=3&Language=4
+Ils sillonent les routes avec des vans spécifiques, et récupère le feedback
+d'utilisateurs.
+Effectif 2006 : 1490
+CA 2006: 260M~ euros
+
+Navteq:	
+1985 (Karlin & Collins, Inc.)
+1987 (Navigation Technologies Corporation)
+2004 (Navteq)
+Appartient à Nokia de nos jours (depuis 2008)
+Dirigeants: Larry Kaplan, CEO
+Principaux clients et produits:
+    Cartographie sur Internet : Bing Maps, Yahoo! Maps, MapQuest
+    Assistants de navigation personnel (PND) : Garmin, Navigon ViaMichelin, Medion IGN Evadeo, Magellan, Mappy, Snooper, Takara, Nextar, AvMap...
+    Applications sur téléphone mobile et PDA: Nokia Ovi Maps, Igo, Copilot, Sygic, NDrive, Route 66, ZorroGPS...
+    GPS intégrés dans les automobiles : BMW, Chrysler, Citroën, Fiat, Hyundai, Jaguar, KIA, Land Rover, Mini, Opel, Peugeot, Porsche, Toyota, Volvo, Volkswagen, JVC, Coyote...
+    Cartographie professionnelle : Korem, masternaut...
+Bon, on sait tous que Nokia, ils perdent énormément dernièrement, sur le
+marché des smartphones notamment. Mais est-ce que celà va influencer Navteq ?
+Procédé de récupération de données : http://www.navteq.com/products_data_whatis_difference.htm
+
+PS: Je pense qu'il y a des entreprises vendant aux gouvernements dans le 
+domaine de la défense des technologies similaires. Peut-être un risque à ne pas
+sous-estimer ?
+
+2eme force - nouveaux arrivants:
+
+Il est assez dur aujourd'hui de se lancer sur ce marché, cela demande d'énorme 
+investissements, sachant qu'il existe déjà certains gros leaders avec des 
+potentiels énormes. Ils (et BCI aussi) ont l'avantage de connaître le domaine
+et d'avoir de gigantesque base de données. Les leaders ont aussi des contacts
+avec les principales compagnies qui se serviraient de ces données.
+La menace des nouveaux entrants est faible ici, sauf si ces nouveaux entrants
+sont des entreprises qui ne commercialisaient pas leurs produits de manière 
+publiques : (voir plus haut)
+
+
+3eme force - pouvoir de négociation des clients
+Il existe de nombreuses alternatives au niveau des GPS, donc les clients ont un
+large choix concernant ces derniers. Cependant, la visualisation en 3D et la 
+mise à jour en temps réel proposé par GEOD n'est mis en place par aucun 
+concurrent et diminue le pouvoir de décision des clients.
+Il existe de nombreux clients potentiels pour BCI, notamment dans les pays en
+voie de developpement où les concurrents sont moins implémentés.
+Un client doit mettre un prix assez élevé pour choisir un autre concurrent, car
+les données ne sont pas compatibles et il faudrait mettre de l'argent pour
+racheter du matériel compatible.
+
+4eme force - pouvoir de négociation des fournisseurs:
+Les fournisseurs de cartes locale peuvent imposés de lourdes conditions à BCI,
+notamment en matière de vie privée, d'utilisation confidentielle de données ..
+Donc un pouvoir assez gros.
+Au niveau de mis à jour en quasi réel et visualisation 3d, il n'existe peu ou
+pas de concurrents donc le fournisseur, s'il en a un besoin vital, aura peu de
+décision à ce niveau.
+
+5eme force - produit de substitution
+Je ne vois pas de produit de substitution à GEOD, si ce n'est un radar en 
+visualisation 3D (si cela existe?).
+
+Rôle de l'état: les états peuvent influer sur comment et quels parties de leur
+territoire serait cartographier en temps réel, pour des raisons de vie privée
+et/où confidentielle
+
+
+1ere force: 3/4
+2eme force: 1/4
+3eme force: 2/4
+4eme force: 2/4
+5eme force: 1/4
+
+résultat 9/20, il y a donc une possibilitée pour BCI de commercialiser son
+produit GEOD
